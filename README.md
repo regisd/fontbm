@@ -52,6 +52,11 @@ Dependencies:
 * CMake 3.0
 * [FreeType](https://www.freetype.org/)
 
+For instance, on Ubuntu
+```
+sudo apt-get install gcc cmake libfreetype6-dev
+```
+
 Build:
 
 ```
